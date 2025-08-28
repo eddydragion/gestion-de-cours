@@ -1,0 +1,7 @@
+Title	Description	Label	Assignee	Priorité	Milestone	Due Date
+Base de données	creation avec postGreSQL avec docker	Bdd				
+Base de données	design	Design		P1		
+Utilisateur enregistrer/edite/supprimer un cours	CRUD cours API	Backend				
+Utilisateur enregistrer/edite/supprimer un chapitre	CRUD chapitre  API	Backend				
+Utilisateur enregistrer/edite/supprimer un exercice	CRUD exercice API	Backend				
+Utilisateur génére un cours avec une LLM choisie	implementation choix llm dans appli	Backend				
