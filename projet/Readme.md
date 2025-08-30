@@ -1,7 +1,14 @@
 # synchronisation avec gitLab :
 
 
+git remote -v
+
+
 ```cmd
-git remote add gitlab https://gitlab.com/eddydragion1/gestion-de-cours
+git remote add gitlab https://gitlab.com/eddydragion1/gestion-de-cours2
 ```
-test
+push sur gitlab 
+
+```cmd
+git push gitlab main
+```
